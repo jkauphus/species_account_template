@@ -1,0 +1,38 @@
+.title {
+  font-size: 47px;
+  color: #000000;
+  text-align: center;
+}
+
+body {
+  font-size: 1.6rem;
+  text-align: justify;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.author {
+  font-size: 20px;
+  color: #000000;
+  text-align: center;
+}
+
+.date {
+  font-size: 20px;
+  color: #000000;
+  text-align: center;
+}
+
+.column-left{
+  float: left;
+  width: 48%;
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+
+.column-right{
+  float: right;
+  width: 48%;
+  text-align: right;
+}
